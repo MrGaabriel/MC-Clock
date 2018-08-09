@@ -1,0 +1,6 @@
+name: MCClock
+main: me.mrgaabriel.mcclock.Main
+version: 1.0.0-SNAPSHOT
+
+author: MrGaabriel
+description: Fazendo relógios se tornarem realidade
